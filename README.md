@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="left" width="150" height="150" src=""/>
+
+## I'm [Konrad Sokołowski][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/konrad-soko%C5%82owski/?locale=en_US
 
 <!--
 **KONRADS098/konrads098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
