@@ -2,8 +2,7 @@
 <p align="center"><img align="center" width="350" alt="Konrad Sokołowski" src="assets/bitmoji.png"/></p>
 
 - 👋 I’m <a style="font-size: 1.075rem; color: #0760dd;" href="https://www.linkedin.com/in/konrad-soko%C5%82owski/?locale=en_US" target="_blank">Konrad Sokołowski</a> a Software Engineering student passionate about developing software. I have experience in a variety of technologies including <span style="font-size: 1.075rem;color: #0760dd;">Angular, Spring Boot, .NET, Flutter</span>   
-- 🔭 I’m currently working on <a style="font-size: 1.075rem; color: #0760dd;" href="https://train-game-production-fe.herokuapp.com/" target="_blank">project-train-game</a>, which is a spontaneous adventure game where players explore various cities by taking random trains. The objective is to experience the thrill of unpredictability and discover new places along the way.  
-- 📖 I’m currently learning <a style="font-size: 1.075rem; color: #0760dd;" href="" target="_blank">Python</a> and soon will be participating in an AAI course which will cover the following topics <a style="font-size: 1.075rem; color: #0760dd;" href="" target="_blank">Machine Learning, NLP, Computer Vision, Transformers and 3D Vision</a> 
+- 📖 I’m currently learning <a style="font-size: 1.075rem; color: #0760dd;" href="" target="_blank">Python</a> applied to <a style="font-size: 1.075rem; color: #0760dd;" href="" target="_blank">Machine Learning, Deep Learning, and Neural Networks</a> 
 <a href="https://www.linkedin.com/in/konrad-soko%C5%82owski/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -24,6 +23,9 @@
 ## ⭐ Repositories 
 <a href="https://github.com/team-goofy/project-train-game" target="_blank">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=team-goofy&repo=project-train-game&hide_border=true&theme=transparent">
+</a>
+<a href="https://github.com/KONRADS098/nn-from-scratch" target="_blank">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=nn-from-scratch&hide_border=true&theme=transparent">
 </a>
 <a href="https://github.com/KONRADS098/chart-app" target="_blank">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=chart-app&hide_border=true&theme=transparent">
