@@ -1,13 +1,18 @@
 <div style="margin-left: 20%; margin-right: 20%">
 <p align="center"><img align="center" width="350" alt="Konrad Sokołowski" src="assets/bitmoji.png"/></p>
 
-👋 I’m <a style="font-size: 1.075rem; color: #0760dd;" href="https://www.linkedin.com/in/konrad-soko%C5%82owski/?locale=en_US" target="_blank">Konrad Sokołowski</a> a recent Software Engineering graduate pursuing a career in AI.
+<!-- 👋 I’m <a style="font-size: 1.075rem; color: #0760dd;" href="https://www.linkedin.com/in/konrad-soko%C5%82owski/?locale=en_US" target="_blank">Konrad Sokołowski</a> a recent Software Engineering graduate pursuing a career in AI. -->
 
 <a href="https://www.linkedin.com/in/konrad-soko%C5%82owski/?locale=en_US" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/KONRADS098/konrads098/blob/54815bc928b8b8a0863ef278927a32795b7f10cc/assets/konrad_sokolowski_resume_4.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-0760dd" alt="Resume">
+<br>
+<a href="https://medium.com/@konrad-s" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%230077B5?&style=flat-square&logo=medium&logoColor=white&color=black" alt="Medium">
+</a>
+<br>
+<a href="https://github.com/KONRADS098/konrads098/blob/54815bc928b8b8a0863ef278927a32795b7f10cc/assets/konrad_sokolowski_resume_4.pdf">
+    <img src="https://img.shields.io/badge/Resume-0760dd?logo=readdotcv" alt="Resume">
 </a>
 <br>
 
