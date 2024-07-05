@@ -21,27 +21,12 @@
 </p>
 
 ## ⭐ Repositories 
-<a href="https://github.com/team-goofy/project-train-game" target="_blank">
-    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=team-goofy&repo=project-train-game&hide_border=true&theme=transparent">
+<a href="https://github.com/KONRADS098/ufc-clustering" target="_blank">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=ufc-clustering&hide_border=true&theme=transparent">
 </a>
 <a href="https://github.com/KONRADS098/nn-from-scratch" target="_blank">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=nn-from-scratch&hide_border=true&theme=transparent">
 </a>
-<a href="https://github.com/KONRADS098/chart-app" target="_blank">
-    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=chart-app&hide_border=true&theme=transparent">
+<a href="https://github.com/team-goofy/project-train-game" target="_blank">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=team-goofy&repo=project-train-game&hide_border=true&theme=transparent">
 </a>
-
-<!--
-**KONRADS098/konrads098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
