@@ -35,6 +35,9 @@
 <a href="https://github.com/KONRADS098/ufc-clustering" target="_blank">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=ufc-clustering&hide_border=true&theme=transparent">
 </a>
+<a href="https://github.com/KONRADS098/angular-paradigms" target="_blank">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=angular-paradigms&hide_border=true&theme=transparent">
+</a>
 <a href="https://github.com/team-goofy/project-train-game" target="_blank">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=team-goofy&repo=project-train-game&hide_border=true&theme=transparent">
 </a>
