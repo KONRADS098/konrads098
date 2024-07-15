@@ -29,6 +29,9 @@
 </p>
 
 ## ⭐ Repositories 
+<a href="https://github.com/KONRADS098/mltc" target="_blank">
+    <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=mltc&hide_border=true&theme=transparent">
+</a>
 <a href="https://github.com/KONRADS098/nn-from-scratch" target="_blank">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=konrads098&repo=nn-from-scratch&hide_border=true&theme=transparent">
 </a>
